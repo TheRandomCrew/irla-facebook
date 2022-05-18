@@ -151,13 +151,13 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/raheebwa/irla-facebook.svg?style=flat-square
+[contributors-shield]: https://img.shields.io/github/contributors/raheebwa/irla-facebook.svg?style=for-the-badge
 [contributors-url]: https://github.com/raheebwa/irla-facebook/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/raheebwa/irla-facebook
+[forks-shield]: https://img.shields.io/github/forks/raheebwa/irla-facebook?style=for-the-badge
 [forks-url]: https://github.com/raheebwa/irla-facebook/network/members
-[stars-shield]: https://img.shields.io/github/stars/raheebwa/irla-facebook
+[stars-shield]: https://img.shields.io/github/stars/raheebwa/irla-facebook?style=for-the-badge
 [stars-url]: https://github.com/raheebwa/irla-facebook/stargazers
-[issues-shield]: https://img.shields.io/github/issues/raheebwa/irla-facebook
+[issues-shield]: https://img.shields.io/github/issues/raheebwa/irla-facebook?style=for-the-badge
 [issues-url]: https://github.com/raheebwa/irla-facebook/issues
-[license-shield]: https://img.shields.io/github/license/raheebwa/irla-facebook
+[license-shield]: https://img.shields.io/github/license/raheebwa/irla-facebook?style=for-the-badge
 [license-url]: https://github.com/raheebwa/irla-facebook/blob/master/LICENSE.txt
